@@ -150,4 +150,10 @@
         </plugins>
     </build>
 
+	<developers>
+		<developer>
+			<name>Agnes Fischer</name>
+			<email>afischer.mello@gmail.com</email>
+		</developer>
+	</developers>
 </project>
